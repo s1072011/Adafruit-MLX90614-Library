@@ -3,3 +3,4 @@ Adafruit_MLX90614	KEYWORD1
 readObjectTempC	KEYWORD2
 
 readObjectTempF	KEYWORD2
+writeEmissivity	KEYWORD2
